@@ -1,0 +1,87 @@
+#upper{
+	text-transform: uppercase;
+}
+
+a:link{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration:underline;
+}
+
+a:active{
+	color:blue;
+
+}
+
+a:visited{
+	color:red;
+}
+
+#center{
+	font-family: Georgia;
+	color:green;
+	text-align: center;
+}
+
+.para{
+line-height: 19px;
+text-align: left;	
+padding-right: auto;
+margin-right: 60px;
+margin-left: 60px;
+font-family: georgia;
+}
+
+#border{
+	border: 5px red;
+	max-width: 600px;
+	margin: auto;
+	width: 100%;
+	height: 1000%;
+	color:red;
+}
+
+.bullet{
+	margin-left: 35px;
+}
+
+.footer{
+	text-align: bottom;
+	color: green;
+	text-align: center;
+}
+.onionimg{
+	margin-left: 100px;
+	width: 300px;
+	height: 140px;
+}
+body{
+		border-style: solid;
+		border-color: black;
+		border-width: medium;
+		background-color: beige;
+	}
+	.border{
+		border-style: solid;
+		border-color:black;
+		border-width:3px;
+		margin-right: 50px;
+		margin-left: 50px;
+		line-height: 19px;
+	text-align: left;	
+	padding-right: auto;
+	margin-right: 60px;
+	margin-left: 60px;
+	font-family: georgia;
+	}
+	#onion{
+		margin-left: 300px;
+		width:150px;
+		height:100px;
+	}
+	.inline li{
+		display: inline-block;
+		color:red;
+		padding: 20px
+

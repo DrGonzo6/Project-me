@@ -1,0 +1,84 @@
+h1{
+	font-family: sans-serif;
+	color:green;
+	background:orange;
+}
+
+body{
+	font-family: sans-serif;
+	background:url(../images/pretty.jpg);
+	background-color: #6699FF;
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+
+}
+
+#unique-tag{
+	background:red;
+	background-size:100px;
+	background-repeat: no-repeat;
+}
+
+
+.first-class {
+	color:red;
+	border:2px dotted white;
+	width:100%;
+	font-size: 20px;
+	font-weight: 200;
+}
+
+p.red{
+	background: red;
+	text-align: right;
+	text-decoration: underline;
+}
+
+.page {
+	border:5px solid rgba(0,0,255,.7);
+	max-width: 600px;
+	margin:0 auto;
+	width:80%;
+	height:1000%;
+	
+}
+
+h2{
+	font-family: sans-serif;
+	background: purple;
+	background-position: left;
+}
+
+ul{
+	background:green;
+}
+ul li{
+	font-size: 30px;
+	background: green;
+	margin:10px 20px 5px 30px;
+
+}
+
+p.space{line-height: 10px}
+
+#unique-tag .first-class{
+	background:black;
+}
+
+a{
+	color:#6699FF;
+	text-decoration: none;
+}
+
+
+a:hover{
+	text-decoration: underline;
+}
+
+a:active{
+	color: orange;
+}
+
+a:visited{
+	color: purple;}

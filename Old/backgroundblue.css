@@ -1,0 +1,25 @@
+
+/* this is a CSS comment 
+<body> you do not put tags like this to reference an element, do the below
+{background: blue}
+
+</body>
+
+*/
+
+/* for tag names, just write the tag type like body and a */
+body {
+	background: #E6F0FF;
+}
+
+a {
+	color: #FF5951;
+}
+
+/* for an id */
+
+#navi {
+	color: red;
+}
+
+

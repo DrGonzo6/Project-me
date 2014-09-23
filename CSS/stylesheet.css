@@ -1,0 +1,117 @@
+.head{
+	font-family: zapfino;
+	text-align: center;
+	font-size: 25px;
+	margin: 0 auto;
+	font-weight: bold;
+	height:50px;
+	width:300px;
+}
+.headwho{
+	font-family: zapfino;
+	text-align: center;
+	font-size: 25px;
+	margin: 0 auto;
+	font-weight: bold;
+	height:50px;
+	width:300px;
+	color: yellow;
+
+}
+
+.quote{
+	position: absolute;
+	font-family: zapfino;
+	font-weight: bold;
+	margin-left: 550px;
+	margin-right: 150px;
+	text-align: center;
+	margin-bottom: 100px;
+}
+
+ ul.nav li{
+ 	text-align: center;
+	display: inline-block;
+	background-color: #3333FF;
+	border: 4px solid blue;
+	color:white;
+	padding:3px;
+	font-family: helvetica;
+ }
+ 
+ a:link{
+ 	text-decoration: none;
+ 	text-decoration: underline;
+ }
+
+ a:hover{
+ 	background: none;
+ 	text-decoration: none;
+ }
+
+ a:active{
+ 	color:#4DB8FF;
+ }
+
+ a:visited{
+ 	color: #4DB8FF;
+ }
+
+#small{
+	font-size: 19px;
+}
+
+#smaller{
+	font-size: 15px;
+
+}
+
+#smallest{
+	font-size: 13px;
+
+}
+
+.menu{
+	margin-left: 50px;
+	margin-top: 50px;
+}
+
+.home{
+	background: url(../images/theroad.jpg) no-repeat;
+	margin: 0 auto;
+
+}
+
+.Nick{
+	margin: 0 auto;
+	border: solid;
+	margin-top: 100px;
+	margin-left: 100px;
+	margin-right: 300px;
+	position: relative;
+	font-family: helvetica;
+	text-align: left;
+	background-color: white;
+	opacity: .7;
+	filter: alpha(opacity=60);
+}
+
+.whoiam{
+	background:url(../images/discotent.jpg) no-repeat;
+	background-size: 1260px 800px
+}
+
+.contact{
+	margin: 0 auto;
+	border: solid;
+	margin-top: 100px;
+	margin-left: 100px;
+	margin-right: 750px;
+	position: relative;
+	font-family: helvetica;
+	text-align: left;
+	background-color: white;
+	opacity: .7;
+	filter: alpha(opacity=60);
+}
+

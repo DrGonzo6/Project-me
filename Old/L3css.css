@@ -1,0 +1,79 @@
+.container{
+			text-align: center;
+			padding-top: 15px;
+			text-indent: 10px;
+			margin: 0 auto;
+			max-width: 1000px;
+		}
+		.containerart{
+			margin: 0 auto;
+			max-width: 1000px;
+		}
+		.float{
+			float: left;
+			background-color: beige;
+			border: solid black;
+			width: 33%;
+			margin-left: 50px;
+			margin-right: 50px;
+			margin-bottom: 50px;
+
+		}
+		button{
+			color: black;
+			background-color: red;
+		}
+		.heading{
+			font-family: zapfino;
+			margin-top: 50px;
+
+		}
+		.fixed{
+			position: fixed;	
+			color: white;
+			font-size: 30px;
+			font-family: tahoma;
+			background-color: #3B5999;
+
+		}
+		.kanye{
+			width:150px;
+			height:120px;
+			float: left;
+			padding-right: 15px;
+		}
+		article{
+			padding-left: 10px;
+			font-family: sans-serif;
+			text-align: justify;
+			padding-left: 15px;
+			padding-right: 15px;
+			margin-left: 5px;
+			margin-right: 5px;
+			padding-bottom: 15px;	
+
+		}
+		#icon{
+			height:35px;
+			width: 30px;
+			padding-right: 10px;
+			border: solid black;
+			border-spacing: 
+		}
+		header{
+			position: fixed;
+			width:100%;
+			text-align: center;
+			height:50px;
+			z-index: 1;
+			background-color: #3B5999;
+		}
+		body{
+
+		}
+	
+
+		#twitter-widget-0 {
+			height: 500px;
+			width:200px !important;
+		}
